@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I received my first M.Sc. degree in Mechanical Engineering from the Tongji-University (China) in 2013. From 2013 to 2015, I worked as <font color=#008080>junior project manager</font> in pilot hall at SAIC Volkswagen. Later, I studied Technology Management in University of Stuttgart and gained my second M.Sc. degree in 2019. Since then, I worked as <font color=#008080>research assistant</font> for Institute of Human Factors and Technology Management IAT in University of Stuttgart together in the team Digital Engineering at Fraunhofer IAO.
-
----
+I received my first M.Sc. degree in Mechanical Engineering from the Tongji-University (China) in 2013. From 2013 to 2015, I worked as junior project manager in pilot hall at SAIC Volkswagen. Later, I studied Technology Management in University of Stuttgart and gained my second M.Sc. degree in 2019. Since then, I worked as research assistant for Institute of Human Factors and Technology Management IAT in University of Stuttgart together in the team Digital Engineering at Fraunhofer IAO.
 
 ## Research interests
 
