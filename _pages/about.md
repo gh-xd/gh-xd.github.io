@@ -1,30 +1,24 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Biography"
+excerpt: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am also an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
+I received my first M.Sc. degree in Mechanical Engineering from the Tongji-University (China) in 2013. From 2013 to 2015, I worked as **junior project manager** in pilot hall at SAIC Volkswagen. Later, I studied Technology Management in University of Stuttgart and gained my second M.Sc. degree in 2019. Since then, I worked as **research assistant** for Institute of Human Factors and Technology Management IAT in University of Stuttgart together in the team Digital Engineering at Fraunhofer IAO.
 
-I earned my Ph.D in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu).
-My academic work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Conflict Management and Peace Science*,
-*Political Science Research and Methods*, and *PS: Political Science & Politics*,
-among other outlets. This [research](research) explores the causes and
-consequences of political violence using a broad variety of methods such as
-latent variable models, geospatial analysis, and big data. While primarily
-focused on civil conflict, it also examines contentious political phenomena
-including terrorism and economic statecraft, and develops new measures of
-institutions in international relations. I have [teaching](teaching) experience
-in both quantitative methodology and international relations, and am a certified
-instructor with [The Carpentries](https://carpentries.org).
+## Research projects
+- [<u>QU4LITY</u>](https://qu4lity-project.eu/) (EU H2020 825030): Digital Reality in Zero Defect Manufacturing 
+- [<u>Ultra-efficient industrial areas</u>](https://www.engineering-produktion.iao.fraunhofer.de/de/forschung/ultraeffizienz4industriegebiete.html): Demonstration for the realization of ultra-efficient industrial areas
+
+
+## My research:
+My research interests are in the areas of...
+
+## My thesis
+
+## Publications
+
