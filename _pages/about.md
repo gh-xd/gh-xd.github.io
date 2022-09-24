@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+youtubeId: page.kl_Kg-8DOSA
 ---
 
 I received my first M.Sc. degree in Mechanical Engineering from the Tongji-University (China) in 2013. From 2013 to 2015, I worked as junior project manager in pilot hall at SAIC Volkswagen. Later, I studied Technology Management in University of Stuttgart and gained my second M.Sc. degree in 2019. Since then, I worked as research assistant for Institute of Human Factors and Technology Management IAT in University of Stuttgart together in the team Digital Engineering at Fraunhofer IAO.
@@ -19,7 +20,7 @@ I received my first M.Sc. degree in Mechanical Engineering from the Tongji-Unive
 ## Research projects
 - [**QU4LITY**](https://qu4lity-project.eu/) (EU H2020 825030): Digital Reality in Zero Defect Manufacturing
 
-{% include youtubePlayer.html id=page.kl_Kg-8DOSA}
+{% include youtubePlayer.html id=page.youtubeId %}
 
 - [**Ultra-efficient industrial areas**](https://www.engineering-produktion.iao.fraunhofer.de/de/forschung/ultraeffizienz4industriegebiete.html): Demonstration for the realization of ultra-efficient industrial areas
 
