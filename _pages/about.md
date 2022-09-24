@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-youtubeId: page.kl_Kg-8DOSA
+youtubeId: kl_Kg-8DOSA
 ---
 
 I received my first M.Sc. degree in Mechanical Engineering from the Tongji-University (China) in 2013. From 2013 to 2015, I worked as junior project manager in pilot hall at SAIC Volkswagen. Later, I studied Technology Management in University of Stuttgart and gained my second M.Sc. degree in 2019. Since then, I worked as research assistant for Institute of Human Factors and Technology Management IAT in University of Stuttgart together in the team Digital Engineering at Fraunhofer IAO.
