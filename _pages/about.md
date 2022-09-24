@@ -17,7 +17,10 @@ I received my first M.Sc. degree in Mechanical Engineering from the Tongji-Unive
 - ...
 
 ## Research projects
-- [**QU4LITY**](https://qu4lity-project.eu/) (EU H2020 825030): Digital Reality in Zero Defect Manufacturing [Video](https://www.youtube.com/watch?v=kl_Kg-8DOSA)
+- [**QU4LITY**](https://qu4lity-project.eu/) (EU H2020 825030): Digital Reality in Zero Defect Manufacturing
+
+{% include youtubePlayer.html id=page.kl_Kg-8DOSA}
+
 - [**Ultra-efficient industrial areas**](https://www.engineering-produktion.iao.fraunhofer.de/de/forschung/ultraeffizienz4industriegebiete.html): Demonstration for the realization of ultra-efficient industrial areas
 
 ## My thesis
