@@ -14,7 +14,7 @@ I gained my bachelor degree in mechanical engineering in 2010 and my first M.Sc.
 
 # Research
 
-Research interests are Modeling and Simulation, Model-based Systems Engineering, AI for Science, Machine Learning, Natural Language Processing, etc.
+Research interests are Modeling and Simulation, Model-based Systems Engineering, Digital Twin, CPS, AI for Science, Machine Learning, Natural Language Processing, etc.
 
 ### - *ModelSolver (2022)*
 
@@ -28,11 +28,9 @@ Both mechanical system modeling, bond graph transformation and numerical solver 
 
 *ODEqSolver* is a hobby project due to personal interests. It solves system of ODEs described in a list of string in Python. The main goal is to have a insight in the backbone of simulation technology. Deepdived are methods of explicit and implicit solver, rootfinding and linear system. Simple demos are realizable with Python/Rust. Further research towards its application in established models, and PDE solver.
 
-### - *QU4LITY Project (2020-2022)*
+### - *QU4LITY Project Airbus Pilot (2020-2022)*
 
 Qu4lity  (EU H2020 825030) is the biggest European project dedicated to Autonomous Qu4lity (AQ) and Zero Defect Manufacturing (ZDM) in the Industry 4.0, co-funded by the Horizon 2020.
-
-#### - *Airbus Pilot*
 
 This pilot is based on a case from Airbus. Research concept is a semantic integration in industrial system design towards MBSE approach. The aim of the reasearch is to integrate different engineering activities, processes, methods, tools in system desing so that people from different domains/departments can colaborate efficiently and cross-disciplinary decision making are better supported (pic. Below trade dashboard).  
 
@@ -44,7 +42,7 @@ The DES tool is developed with Python based on open source discrete event simula
 
 **Video Link**: [Youtube - Industrial Co-Design at Airbus - Results from EU project QU4LITY](https://www.youtube.com/watch?v=kl_Kg-8DOSA)
 
-#### - *Continental Pilot*
+#### - *QU4LITY Project Continental Pilot (2021)*
 
 This pilot is based on a case from Continental. A catalogue that records the failure types from SMT manufacturing line has different languages for world-wide factories. Misplacement or errors could occur by confusion of unexperienced people or misunderstanding due to cross-lingual semantic difference. A small PoC of semantic search aims to verify the feasibility of using NLP technology to tackle the situation.
 
