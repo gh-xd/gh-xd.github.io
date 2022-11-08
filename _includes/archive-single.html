@@ -26,7 +26,8 @@
       </div>
     {% endif %}
 
-    <h2 class="archive__item-title" itemprop="headline">
+    <p class="archive__item-title" itemprop="headline">
+	  <b>
       {% if post.collection == 'publications' %}
         {{ title }}
       {% elsif post.link %}
@@ -34,7 +35,8 @@
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
-    </h2>
+	 </b>
+    </p>
     
     {% if post.read_time %}
     {% elsif post.read_time and post.collection == 'posts' %}
