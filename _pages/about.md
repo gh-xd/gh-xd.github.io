@@ -16,23 +16,25 @@ I gained my bachelor degree in mechanical engineering in 2010 and my first M.Sc.
 
 Research interests are Modeling and Simulation, Model-based Systems Engineering, AI for Science, Machine Learning, Natural Language Processing, etc.
 
-### - ModelSolver (2022)
+### - *ModelSolver (2022)*
 
-*ModelSolver* is a hobby project due to personal interests. It solves system of ODEs derived from bond graph. The main goal is to learn and explore the interdisciplinary simulation (or multi-physics simulation) towards MBSE approach.
+ModelSolver is a hobby project due to personal interests. It solves system of ODEs derived from bond graph. The main goal is to learn and explore the interdisciplinary simulation (or multi-physics simulation) towards MBSE approach.
 
 ![model-solver](model-solver.png)
 
 Both mechanical system modeling, bond graph transformation and numerical solver (e.g. RK-Fehlberg order4/order5) are developed with Python as test ground for the purpose of a PoC. Further development and realization could be conducted with Python and C++ mixed.
 
-### - ODEqSolver (2022)
+### - *ODEqSolver (2022)*
 
 *ODEqSolver* is a hobby project due to personal interests. It solves system of ODEs described in a list of string in Python. The main goal is to have a insight in the backbone of simulation technology. Deepdived are methods of explicit and implicit solver, rootfinding and linear system. Simple demos are realizable with Python/Rust. Further research towards its application in established models, and PDE solver.
 
-### - QU4LITY Project (2020-2022)
+### - *QU4LITY Project (2020-2022)*
 
-*Qu4lity*  (EU H2020 825030) is the biggest European project dedicated to Autonomous Qu4lity (AQ) and Zero Defect Manufacturing (ZDM) in the Industry 4.0, co-funded by the Horizon 2020. The pilot project with Airbus origins from the concept of semantic integration in industrial system design.
+Qu4lity  (EU H2020 825030) is the biggest European project dedicated to Autonomous Qu4lity (AQ) and Zero Defect Manufacturing (ZDM) in the Industry 4.0, co-funded by the Horizon 2020.
 
-Our pilot is based on a case from Airbus. Research concept is a semantic integration in industrial system design towards MBSE approach. The aim of the reasearch is to integrate different engineering activities, processes, methods, tools in system desing so that people from different domains/departments can colaborate efficiently and cross-disciplinary decision making are better supported (pic. Below trade dashboard).  
+#### - *Airbus Pilot*
+
+This pilot is based on a case from Airbus. Research concept is a semantic integration in industrial system design towards MBSE approach. The aim of the reasearch is to integrate different engineering activities, processes, methods, tools in system desing so that people from different domains/departments can colaborate efficiently and cross-disciplinary decision making are better supported (pic. Below trade dashboard).  
 
 ![asdf](dashboard.png)
 
@@ -42,15 +44,17 @@ The DES tool is developed with Python based on open source discrete event simula
 
 **Video Link**: [Youtube - Industrial Co-Design at Airbus - Results from EU project QU4LITY](https://www.youtube.com/watch?v=kl_Kg-8DOSA)
 
+#### - *Continental Pilot*
 
+This pilot is based on a case from Continental. A catalogue that records the failure types from SMT manufacturing line has different languages for world-wide factories. Misplacement or errors could occur by confusion of unexperienced people or misunderstanding due to cross-lingual semantic difference. A small PoC of semantic search aims to verify the feasibility of using NLP technology to tackle the situation.
 
-### - AI feasibility in Offer Analysis (2021)
+![ss](semantic-search.png)
 
-Mainly NLP projects.
+The processing pipeline is developed with Python and open source tools: language detection by SpaCy, translation and similarity representation by by MarianMT and RoBERTa supported by transformers from HuggingFace. Results were enlightening.
 
-Document classification with the help of text and images.
+### - AI in Document Analysis (2021)
 
-Document search.
+Experiments for document classification using different open source tools and methods to deal with txt formats, including Doc2Vec, FastText, TextCNN, BERT, RoBERTa, etc. Besides, OpenCV is used to deal the image of standard format document to determine the document class. BM25 search algorithm is used to find relevant information in documents.
 
 ---
 
