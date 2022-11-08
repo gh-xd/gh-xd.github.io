@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I received my first M.Sc. degree in Mechanical Engineering from the Tongji-University (China) in 2013. From 2013 to 2015, I worked as junior project manager in pilot hall at SAIC Volkswagen. Later, I studied Technology Management in University of Stuttgart and gained my second M.Sc. degree in 2019. Since then, I worked as research assistant for Institute of Human Factors and Technology Management IAT in University of Stuttgart together in the team Digital Engineering at Fraunhofer IAO.
+In 2013, I received my first M.Sc. degree in Mechanical Engineering from the Tongji-University (China). From 2013 to 2015, I worked as junior project manager in pilot hall at SAIC Volkswagen. After 2015, I studied Technology Management in University of Stuttgart and gained my second M.Sc. degree in 2019. Since then, I worked as researcher for Institute of Human Factors and Technology Management IAT in University of Stuttgart together in the team Digital Engineering at Fraunhofer IAO. In 2022, I returned to China and I would like to continue my research work...
 
 ## Research interests
 
@@ -18,33 +18,31 @@ I received my first M.Sc. degree in Mechanical Engineering from the Tongji-Unive
 
 ## Research projects
 
-<b><font color=#4682B4 size=4>ModelSolver Project</font></b>
+**- ModelSolver Project (2022)**
 
-<font color=#4682B4 size=5>ModelSolver Project</font>
+***ModelSolver*** is a hobby project due to personal interests in numerical solver and modeling and simulation. The main goal is to learn and explore the interdisciplinary simulation (or multi-physics simulation) with MBSE approach.
 
-**ModelSolver Project (2022)**
+![model-solver](model-solver.png)
 
-ModelSolver is a personal research project.
+Both mechanical system modeling, bond graph transformation and numerical solver (e.g. Runge-Kutta Fehlberg order4/order5) are implemented in Python as playground for purpose of reaching a proof of concept. Further development and realization could be conducted with Python and C++ mixed.
 
-**QU4LITY Project (2020-2022)**
+**- QU4LITY Project (2020-2022)**
 
-Qu4lity is the biggest European project dedicated to Autonomous Qu4lity (AQ) and Zero Defect Manufacturing (ZDM) in the Industry 4.0, co-funded by the Horizon 2020 (EU H2020 825030).
-
-...
+***Qu4lity*** is the biggest European project dedicated to Autonomous Qu4lity (AQ) and Zero Defect Manufacturing (ZDM) in the Industry 4.0, co-funded by the Horizon 2020 (EU H2020 825030). The pilot project with Airbus origins from the concept of semantic integration in industrial system design using ontology, i.e. an MBSE approach realized via ontology (GOPPRRE).
 
 ![asdf](airbus-demo.png)
 
+The prototype is developed end-to-end. Tools involved are ***Protege*** for application ontology development, ***Metagraph and KARMA language*** for architecture definition and system integration, **DES** (discrete event simulation) **tool based on SimPy** for design verification, self-developed trade dashboard using ***Vue, Vuetify and Apache Echarts*** for integrated visualization as frontend, ***Neo4j server*** and local ***SQLite*** as database, ***docker*** for frond- and backend program containerization, ***Google Cloud Platform*** and ***Azure AWS*** for deployment, etc.
 
+**Project link**: https://qu4lity-project.eu/
 
-Project link: https://qu4lity-project.eu/
+**Video Link**: [Youtube - Industrial Co-Design at Airbus - Results from EU project QU4LITY](https://www.youtube.com/watch?v=kl_Kg-8DOSA)
 
-Video Link: [Youtube - Industrial Co-Design at Airbus - Results from EU project QU4LITY](https://www.youtube.com/watch?v=kl_Kg-8DOSA)
-
-**Ultra-efficient industrial areas (2021-2022)**
+**- Ultra-efficient industrial areas (2021-2022)**
 
 Demonstration for the realization of ultra-efficient industrial areas
 
-Link: [**Ultra-efficient industrial areas**](https://www.engineering-produktion.iao.fraunhofer.de/de/forschung/ultraeffizienz4industriegebiete.html): 
+Link: [**Ultra-efficient industrial areas**](https://www.engineering-produktion.iao.fraunhofer.de/de/forschung/ultraeffizienz4industriegebiete.html)
 
 ## Pubulication list
 
