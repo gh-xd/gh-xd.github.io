@@ -42,7 +42,7 @@ The DES tool is developed with Python based on open source discrete event simula
 
 **Video Link**: [Youtube - Industrial Co-Design at Airbus - Results from EU project QU4LITY](https://www.youtube.com/watch?v=kl_Kg-8DOSA)
 
-#### - *QU4LITY Project Continental Pilot (2021)*
+### - *QU4LITY Project Continental Pilot (2021)*
 
 This pilot is based on a case from Continental. A catalogue that records the failure types from SMT manufacturing line has different languages for world-wide factories. Misplacement or errors could occur by confusion of unexperienced people or misunderstanding due to cross-lingual semantic difference. A small PoC of semantic search aims to verify the feasibility of using NLP technology to tackle the situation.
 
@@ -72,11 +72,7 @@ Experiments for document classification using different open source tools and me
 
 # Miscellaneous
 
-### - Master thesis
+Master thesis: Development of a method for company-specific advancement of digital engineering based on AI-functionalities at the example of a voice-controlled 3D-CAD application
 
-Development of a method for company-specific advancement of digital engineering based on AI-functionalities at the example of a voice-controlled 3D-CAD application
-
-### - Student research project
-
-Study of the influences of Industry 4.0 on product development
+Master student thesis: Study of the influences of Industry 4.0 on product development
 
