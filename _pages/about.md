@@ -32,11 +32,11 @@ Both mechanical system modeling, bond graph transformation and numerical solver 
 
 Qu4lity  (EU H2020 825030) is the biggest European project dedicated to Autonomous Qu4lity (AQ) and Zero Defect Manufacturing (ZDM) in the Industry 4.0, co-funded by the Horizon 2020.
 
-This pilot is based on a case from Airbus. Research concept is a semantic integration in industrial system design towards MBSE approach. The aim of the reasearch is to integrate different engineering activities, processes, methods, tools in system desing so that people from different domains/departments can colaborate efficiently and cross-disciplinary decision making are better supported (pic. Below trade dashboard).  
+This pilot is based on a case from Airbus. Research concept is a semantic integration in industrial system design towards MBSE approach. The aim of the reasearch is to integrate different engineering activities, processes, methods, tools in system design so that people from different domains/departments can colaborate efficiently and cross-disciplinary decision making are better supported (pic. below trade dashboard).  
 
 ![asdf](dashboard.png)
 
-The DES tool is developed with Python based on open source discrete event simulation engine *SimPy*. DES models are object-oriented designed. Models are instantiated according to design concept models as input, then processed and simulated, aiming at a automatic  generation of design concepts trade-off to support decision (pic. below data flow overview).
+The DES tool is developed with Python based on an open source discrete event simulation engine *SimPy*. DES models are object-oriented designed. Models are instantiated according to design concept models in meta-model, then processed and simulated, aiming at a automatic  generation of design concepts trade-off to support decision (pic. below data flow overview).
 
 ![des](des.png)
 
@@ -50,7 +50,7 @@ This pilot is based on a case from Continental. A catalogue that records the fai
 
 The processing pipeline is developed with Python and open source tools: language detection by SpaCy, translation and similarity representation by by MarianMT and RoBERTa supported by transformers from HuggingFace. Results were enlightening.
 
-### - AI in Document Analysis (2021)
+### - *AI for Document Analysis (2021)*
 
 Experiments for document classification using different open source tools and methods to deal with txt formats, including Doc2Vec, FastText, TextCNN, BERT, RoBERTa, etc. Besides, OpenCV is used to deal the image of standard format document to determine the document class. BM25 search algorithm is used to find relevant information in documents.
 
