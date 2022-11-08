@@ -8,35 +8,35 @@ redirect_from:
   - /about.html
 ---
 
-I gained my bachelor degree in Mechanical Engineering from North China Electric Power University (NCEPU) in China in 2010. From 2010 to 2013, I studied Mechanical Engineering in Tongji-University in China and received my first M.Sc. degree in 2013. During 2013 and 2015, I work as junior project manager in pilot hall at SAIC Volkswagen and responsible for multiple passenger car project, mainly for C-class. Since 2015, I have been studying Technology Management in University of Stuttgart and gained my second M.Sc. degree. I made my Internship of IT project management in Remanufacturing department in Daimler AG from 2016 to 2017. Subsequently, I worked as student research assistant at Fraunhofer IAO until 2019. Between 2019 and 2022, I worked as researcher for Institute of Human Factors and Technology Management IAT in University of Stuttgart together in the team Digital Engineering at Fraunhofer IAO. Later, I returned to China in 2022 and would like to continue my research work.
+I gained my bachelor degree in mechanical engineering in 2010 and my first M.Sc. degree in mechanical engineering with specialization of logistics, in Tongji-University in 2013. I work as junior project manager in pilot hall at SAIC Volkswagen between 2013 and 2015.  Since 2015, I have been studying technology management in University of Stuttgart and gained my second M.Sc. degree. From 2019 to 2022, I worked as researcher in  IAT of University of Stuttgart together in the team Digital Engineering at Fraunhofer IAO.
 
-## Research interests
+# Research
 
-Modeling and simulation, MBSE, AI for Science, NLP...
+Research interests are Modeling and Simulation, Model-based Systems Engineering, AI for Science, Machine Learning, Natural Language Processing, etc.
 
+### ModelSolver (2022)
 
-
-## Research projects
-
-### ModelSolver Project (2022)
-
-**Intro**: *ModelSolver* is a hobby project due to personal interests in numerical solver and modeling and simulation. The main goal is to learn and explore the interdisciplinary simulation (or multi-physics simulation) with MBSE approach.
+*ModelSolver* is a hobby project due to personal interests. It solves system of ODEs derived from bond graph. The main goal is to learn and explore the interdisciplinary simulation (or multi-physics simulation) with MBSE approach.
 
 ![model-solver](model-solver.png)
 
-Both mechanical system modeling, bond graph transformation and numerical solver (e.g. Runge-Kutta Fehlberg order4/order5) are implemented in Python as playground for purpose of reaching a proof of concept. Further development and realization could be conducted with Python and C++ mixed.
+Both mechanical system modeling, bond graph transformation and numerical solver (e.g. RK-Fehlberg order4/order5) are implemented in Python as playground for purpose of a proof of concept. Further development and realization could be conducted with Python and C++ mixed.
 
+### ODEqSolver (2022)
 
+*ODEqSolver* is a hobby project due to personal interests. It solves system of ODEs in list of string in Python. The main goal is to have a insight in simulation tools' backbone. Deepdived are methods of explicit and implicit solver, rootfinding and linear system. Simple demos are developed with Python and Rust. Further research towards its application in established models, and PDE solver.
 
 ### QU4LITY Project (2020-2022)
 
-***Qu4lity*** is the biggest European project dedicated to Autonomous Qu4lity (AQ) and Zero Defect Manufacturing (ZDM) in the Industry 4.0, co-funded by the Horizon 2020 (EU H2020 825030). The pilot project with Airbus origins from the concept of semantic integration in industrial system design using ontology, i.e. an MBSE approach realized via ontology (GOPPRRE).
+*Qu4lity*  (EU H2020 825030) is the biggest European project dedicated to Autonomous Qu4lity (AQ) and Zero Defect Manufacturing (ZDM) in the Industry 4.0, co-funded by the Horizon 2020. The pilot project with Airbus origins from the concept of semantic integration in industrial system design.
 
-![asdf](airbus-demo.png)
+Tools involved are *Protege* for application ontology development, *Metagraph and KARMA language* with *GOPPRRE* for architecture definition and system integration, *DES* (discrete event simulation) tool for design verification, trade dashboard developed using *Vue, Vuetify and Apache Echarts* for integrated visualization as frontend, *Neo4j server* and local *SQLite* as database, *docker* for frond- and backend containerization, *Google Cloud Platform* and *Azure AWS* for deployment, etc.
 
-The prototype is developed end-to-end. Tools involved are *Protege* for application ontology development, *Metagraph and KARMA language* for architecture definition and system integration, *DES* (discrete event simulation) tool based on *SimPy* for design verification, self-developed trade dashboard using *Vue, Vuetify and Apache Echarts* for integrated visualization as frontend, *Neo4j server* and local *SQLite* as database, *docker* for frond- and backend program containerization, *Google Cloud Platform* and *Azure AWS* for deployment, etc.
+![asdf](dashboard.png)
 
-**Project link**: https://qu4lity-project.eu/
+The DES tool is developed with Python based on open source discrete event simulation engine *SimPy*. DES models are object-oriented designed. Models are instantiated according to design concept models as input, then processed and simulated, aiming at a automatic  generation of design concepts trade-off to support decision.
+
+![des](des.png)
 
 **Video Link**: [Youtube - Industrial Co-Design at Airbus - Results from EU project QU4LITY](https://www.youtube.com/watch?v=kl_Kg-8DOSA)
 
@@ -48,19 +48,7 @@ The prototype is developed end-to-end. Tools involved are *Protege* for applicat
 
 
 
-
-
-### Ultra-efficient industrial areas (2021-2022)
-
-Demonstration for the realization of ultra-efficient industrial areas
-
-**Project state**: closed
-
-Link: [**Ultra-efficient industrial areas**](https://www.engineering-produktion.iao.fraunhofer.de/de/forschung/ultraeffizienz4industriegebiete.html)
-
-
-
-## Pubulication list
+# Pubulications
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -72,7 +60,7 @@ Link: [**Ultra-efficient industrial areas**](https://www.engineering-produktion.
   {% include archive-single.html %}
 {% endfor %}
 
-## Thesis
+# Thesis
 
 - Master thesis: Development of a method for company-specific advancement of digital engineering based on AI-functionalities at the example of a voice-controlled 3D-CAD application
 - Student research project: Influences of Industry 4.0 on product development
