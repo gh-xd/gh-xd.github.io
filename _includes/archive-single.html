@@ -22,7 +22,7 @@
     {% endif %}
     <ul>
       <li>
-        <h2 class="archive__item-title" itemprop="headline">
+        <h3 class="archive__item-title" itemprop="headline">
           {% if post.collection == 'publications' %}
           {{ title }}
           {% elsif post.link %}
@@ -31,7 +31,7 @@
           {% else %}
           <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
           {% endif %}
-        </h2>
+        </h3>
 
         {% if post.read_time %}
         {% elsif post.read_time and post.collection == 'posts' %}
@@ -54,6 +54,12 @@
 
         <!-- citation and icon code -->
         <p>
+          {% if post.citation %}
+          {{ post.citation }}
+          {% endif %}
+        </p>
+
+        <p>
           {% if post.link %}
           <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
           {% endif %}
@@ -66,12 +72,6 @@
           {% if post.github %}
           <a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
           {% endif %} -->
-        </p>
-
-        <p>
-          {% if post.citation %}
-          {{ post.citation }}
-          {% endif %}
         </p>
 
         {% elsif post.collection == 'posts' and post.date %}
