@@ -17,6 +17,11 @@ I received my first M.Sc. degree in Mechanical Engineering from the Tongji-Unive
 - ...
 
 ## Research projects
+
+### QUALITY
+
+#### QUALITY
+
 - [**QU4LITY**](https://qu4lity-project.eu/) (EU H2020 825030): Digital Reality in Zero Defect Manufacturing
   
   - [Youtube - Industrial Co-Design at Airbus - Results from EU project QU4LITY](https://www.youtube.com/watch?v=kl_Kg-8DOSA)
@@ -46,4 +51,18 @@ I received my first M.Sc. degree in Mechanical Engineering from the Tongji-Unive
 - Zheng, X., Lu, J., Arista, R., Hu, X., Lentes, J., Ubis, F., Sorvari, J. & Kiritsis, D. (2020). Development of an application ontology for knowledge management to support aircraft assembly system design. *CEUR Workshop Proceeding* ISSN, 1613, 0073.
 - Fang, D. & Hu, X. (2014). Architecture of a Knowledge-Based Education System for Logistics. *In Frontier and Future Development of Information Technology in Medicine and Education* (pp. 2683-2692). Springer, Dordrecht.
 - Zheng, X., Hu, X., Arista, R., Lu, J., Sorvari, J., Lentes, J., & Ubis, F. (2022). A semantic-driven tradespace framework to accelerate aircraft manufacturing system design. (unpublished)
+
+
+
+## Pub
+
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
