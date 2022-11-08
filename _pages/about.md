@@ -8,22 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-- **2010**: I got my bachelor degree in Mechanical Engineering from North China Electric Power University (NCEPU) in China.
-- **2010 - 2013**: I studied Mechanical Engineering in Tongji-University in China and received my first M.Sc. degree.
-- **2013 - 2015**: Work as junior project manager in pilot hall at SAIC Volkswagen and responsible for multiple passenger car project, mainly for C-class.
-- **2015 - 2019**: I studied Technology Management in University of Stuttgart and gained my second M.Sc. degree.
-- **2016 - 2017**: Internship of IT project management in Remanufacturing department in Daimler AG.
-- **2017 - 2019**: Student research assistant at Fraunhofer IAO.
-- **2019 - 2022**: Work as researcher for Institute of Human Factors and Technology Management IAT in University of Stuttgart together in the team Digital Engineering at Fraunhofer IAO.
-- **2022 - **: I return to China and would like to continue my research work...
+I gained my bachelor degree in Mechanical Engineering from North China Electric Power University (NCEPU) in China in 2010. From 2010 to 2013, I studied Mechanical Engineering in Tongji-University in China and received my first M.Sc. degree in 2013. During 2013 and 2015, I work as junior project manager in pilot hall at SAIC Volkswagen and responsible for multiple passenger car project, mainly for C-class. Since 2015, I have been studying Technology Management in University of Stuttgart and gained my second M.Sc. degree. I made my Internship of IT project management in Remanufacturing department in Daimler AG from 2016 to 2017. Subsequently, I worked as student research assistant at Fraunhofer IAO until 2019. Between 2019 and 2022, I worked as researcher for Institute of Human Factors and Technology Management IAT in University of Stuttgart together in the team Digital Engineering at Fraunhofer IAO. Later, I returned to China in 2022 and would like to continue my research work.
 
-# Research fields
+## Research interests
 
-...
+Modeling and simulation, MBSE, AI for Science, NLP...
 
-# Research projects
 
-## ModelSolver Project (2022)
+
+## Research projects
+
+### ModelSolver Project (2022)
 
 **Intro**: *ModelSolver* is a hobby project due to personal interests in numerical solver and modeling and simulation. The main goal is to learn and explore the interdisciplinary simulation (or multi-physics simulation) with MBSE approach.
 
@@ -33,7 +28,7 @@ Both mechanical system modeling, bond graph transformation and numerical solver 
 
 
 
-## QU4LITY Project (2020-2022)
+### QU4LITY Project (2020-2022)
 
 ***Qu4lity*** is the biggest European project dedicated to Autonomous Qu4lity (AQ) and Zero Defect Manufacturing (ZDM) in the Industry 4.0, co-funded by the Horizon 2020 (EU H2020 825030). The pilot project with Airbus origins from the concept of semantic integration in industrial system design using ontology, i.e. an MBSE approach realized via ontology (GOPPRRE).
 
@@ -47,7 +42,7 @@ The prototype is developed end-to-end. Tools involved are *Protege* for applicat
 
 
 
-## AI feasibility for Offer Analysis
+### AI feasibility for Offer Analysis
 
 ...
 
@@ -55,7 +50,7 @@ The prototype is developed end-to-end. Tools involved are *Protege* for applicat
 
 
 
-## Ultra-efficient industrial areas (2021-2022)
+### Ultra-efficient industrial areas (2021-2022)
 
 Demonstration for the realization of ultra-efficient industrial areas
 
@@ -65,7 +60,7 @@ Link: [**Ultra-efficient industrial areas**](https://www.engineering-produktion.
 
 
 
-# Pubulication list
+## Pubulication list
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -77,7 +72,7 @@ Link: [**Ultra-efficient industrial areas**](https://www.engineering-produktion.
   {% include archive-single.html %}
 {% endfor %}
 
-# Thesis
+## Thesis
 
 - Master thesis: Development of a method for company-specific advancement of digital engineering based on AI-functionalities at the example of a voice-controlled 3D-CAD application
 - Student research project: Influences of Industry 4.0 on product development
