@@ -18,11 +18,11 @@ Research interests are Modeling and Simulation, Model-based Systems Engineering,
 
 ### - *ModelSolver (2022)*
 
-ModelSolver is a <u>personal project</u> due to personal interests. It can model multiphysics system from bond graph and solves system of ODEs derived from the graph. The main goal to to explore the meta-model approach for system-level simulation towards MBSE approach.
+ModelSolver is a <u>personal project</u> due to personal interests. It can model multiphysics system from bond graph and solves system of ODEs derived from the graph. The main goal is to explore the meta-model approach for system-level simulation towards MBSE approach.
 
 ![bgms](sysmodel.png)
 
-Both modeling, bond graph processing and numerical solvers (e.g. RK-Fehlberg order4/order5) are developed with Python as test ground for the purpose of a PoC. Further development and realization could be conducted with Python and C++ mixed.
+Both modeling, bond graph processing and numerical solvers (e.g. RK-Fehlberg order4/order5) are developed with Python as playground for the purpose of realizing Proof-of-Concept. Further development and realization could be conducted with Python and C++ mixed.
 
 ### - *ODEqSolver (2022)*
 
