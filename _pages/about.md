@@ -18,21 +18,21 @@ Research interests are Modeling and Simulation, Model-based Systems Engineering,
 
 ### - *ModelSolver (2022)*
 
-ModelSolver is a hobby project due to personal interests. It can model multiphysics system from bond graph and solves system of ODEs derived from the graph. The main goal to explore the meta-model approach for system-level simulation towards MBSE approach.
+ModelSolver is a **personal project** due to personal interests. It can model multiphysics system from bond graph and solves system of ODEs derived from the graph. The main goal to to explore the meta-model approach for system-level simulation towards MBSE approach.
 
-![bgms](bgms.png)
+![bgms](sysmodel.png)
 
-Both mechatronic system modeling, bond graph processing and numerical solvers (e.g. RK-Fehlberg order4/order5) are developed with Python as test ground for the purpose of a PoC. Further development and realization could be conducted with Python and C++ mixed.
+Both modeling, bond graph processing and numerical solvers (e.g. RK-Fehlberg order4/order5) are developed with Python as test ground for the purpose of a PoC. Further development and realization could be conducted with Python and C++ mixed.
 
 ### - *ODEqSolver (2022)*
 
-*ODEqSolver* is a hobby project due to personal interests. It solves system of ODEs described in a list of string in Python. The main goal is to have a insight in the backbone of simulation technology. Deepdived are methods of explicit and implicit solver, rootfinding and linear system. Simple demos are realizable with Python/Rust. Further research towards its application in established models, and PDE solver.
+*ODEqSolver* is a **personal project** due to personal interests. It solves system of ODEs described in a list of equation strings in Python. The main goal is to gain a insight in the backbone of simulation technology. Deepdived are methods of explicit and implicit solver, rootfinding and linear system. Simple demos are realizable with Python/Rust. Further research towards its application in established models, and PDE solver.
 
 ### - *QU4LITY Project Airbus Pilot (2020-2022)*
 
 Qu4lity  (EU H2020 825030) is the biggest European project dedicated to Autonomous Qu4lity (AQ) and Zero Defect Manufacturing (ZDM) in the Industry 4.0, co-funded by the Horizon 2020.
 
-This pilot is based on a case from Airbus. Research concept is a semantic integration in industrial system design towards MBSE approach. The aim of the reasearch is to integrate different engineering activities, processes, methods, tools in system design so that people from different domains/departments can colaborate efficiently and cross-disciplinary decision making are better supported (pic. below trade dashboard).  
+This is a **public funded project**. The pilot is based on a case from Airbus. Research concept is a semantic integration in industrial system design towards MBSE approach. The aim of the reasearch is to integrate different engineering activities, processes, methods, tools in system design so that people from different domains/departments can colaborate efficiently and cross-disciplinary decision making are better supported (pic. below trade dashboard).  
 
 ![asdf](dashboard.png)
 
@@ -44,7 +44,7 @@ The DES tool is developed with Python based on an open source discrete event sim
 
 ### - *QU4LITY Project Continental Pilot (2021)*
 
-This pilot is based on a case from Continental. A catalogue that records the failure types from SMT manufacturing line has different languages for world-wide factories. Misplacement or errors could occur by confusion of unexperienced people or misunderstanding due to cross-lingual semantic difference. A small PoC of semantic search aims to verify the feasibility of using NLP technology to tackle the situation.
+This is a **public funded project**. The pilot is based on a case from Continental. A catalogue that records the failure types from SMT manufacturing line has different languages for world-wide factories. Misplacement or errors could occur by confusion of unexperienced people or misunderstanding due to cross-lingual semantic difference. A small PoC of semantic search aims to verify the feasibility of using NLP technology to tackle the situation.
 
 ![ss](semantic-search.png)
 
@@ -52,7 +52,7 @@ The processing pipeline is developed with Python and open source tools: language
 
 ### - *AI for Document Analysis (2021)*
 
-Experiments for document classification using different open source tools and methods to deal with txt formats, including Doc2Vec, FastText, TextCNN, BERT, RoBERTa, etc. Besides, OpenCV is used to deal the image of standard format document to determine the document class. BM25 search algorithm is used to find relevant information in documents.
+This is a **industry project**. There are experiments for document classification using different open source tools and methods to deal with txt formats, including Doc2Vec, FastText, TextCNN, BERT, RoBERTa, etc. Besides, OpenCV is used to deal the image of standard format document to determine the document class. BM25 search algorithm is used to find relevant information in documents.
 
 ---
 
