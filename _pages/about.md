@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I gained my bachelor degree in mechanical engineering in 2010 and my first M.Sc. degree in mechanical engineering with specialization of logistics, in Tongji-University in 2013. I worked as junior project manager in pilot hall at SAIC Volkswagen between 2013 and 2015.  Since 2015, I have been studying technology management in University of Stuttgart and gained my second M.Sc. degree. From 2019 to 2022, I worked as researcher in  IAT of University of Stuttgart and in the team Digital Engineering at Fraunhofer IAO.
+I gained my bachelor degree in mechanical engineering in 2010 and my first M.Sc. degree in mechanical engineering with specialization of logistics, in Tongji-University in 2013. I worked as junior project manager in pilot hall at SAIC Volkswagen between 2013 and 2015.  Since 2015, I have been studying technology management in University of Stuttgart and gained my second M.Sc. degree in 2019. From 2019/11 to 2022/04, I worked as academic staff in the IAT of University of Stuttgart at Digital Engineering team of Fraunhofer IAO.
 
 ---
 
