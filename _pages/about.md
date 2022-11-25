@@ -52,7 +52,7 @@ The processing pipeline is developed with Python and open source tools: language
 
 ### - *AI for Document Analysis (2021)*
 
-This is a <u>industry project</u>. There are experiments for document classification using different open source tools and methods to deal with txt formats, including Doc2Vec, FastText, TextCNN, BERT, RoBERTa, etc. Besides, OpenCV is used to deal the image of standard format document to determine the document class. BM25 search algorithm is used to find relevant information in documents.
+This is a <u>industry project</u>. There are experiments for document classification using different open source tools and methods to deal with txt formats, including *Doc2Vec, FastText, TextCNN, BERT, RoBERTa*, etc. Besides, *OpenCV* is used to deal with the image of standard format document to determine the document class. *BM25* search algorithm is used to find relevant information in documents.
 
 ---
 

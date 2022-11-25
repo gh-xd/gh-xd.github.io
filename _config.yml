@@ -86,11 +86,11 @@ analytics:
 author:
   name             : "Xiaodu Hu"
   avatar           : "profile.png"
-  bio              : "Applied research"
+  bio              : "Fond of research and developing proof of concept"
   location         : "China"
   employer         :
   pubmed           :
-  orcid            : "0000-0002-1816-7293" 
+  orcid            : "orcid.org/0000-0002-1816-7293" 
   googlescholar    : 
   email            : "xiaodu.hu@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -108,7 +108,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 
+  linkedin         : "https://www.linkedin.com/in/xiaodu-hu-096271193/" 
   pinterest        :
   soundcloud       :
   stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
