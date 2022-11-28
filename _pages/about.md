@@ -14,7 +14,7 @@ I gained my bachelor degree in mechanical engineering in 2010 and my first M.Sc.
 
 # Research
 
-Research interests are Modeling and Simulation, Model-based Systems Engineering, Digital Twin, CPS, AI for Science, Machine Learning, Natural Language Processing, etc.
+Research interests are Modeling and Simulation, Model-based Systems Engineering (MBSE), Digital Twin, CPS, Numerical Solvers, AI for Science, AI technologies, etc.
 
 ### - *ModelSolver (2022)*
 
@@ -22,11 +22,15 @@ ModelSolver is a <u>personal project</u> due to personal interests. It can model
 
 ![bgms](sysmodel.png)
 
-Both modeling, bond graph processing and numerical solvers (e.g. RK-Fehlberg order4/order5) are developed with Python as playground for the purpose of realizing Proof-of-Concept. Further development and realization could be conducted with Python and C++ mixed.
+Both modeling, bond graph processing and numerical solvers (e.g. RK-Fehlberg order4/order5) are developed with Python as playground for the purpose of realizing Proof-of-Concept.
+
+Further development: C++ or Python/C++ mixed; Investigate Modelica components; UI and widgets for modeling; transformation from UI-components in bond graph; semantic check; parsing to state matrix;
 
 ### - *ODEqSolver (2022)*
 
-*ODEqSolver* is a <u>personal project</u> due to personal interests. It solves system of ODEs described in a list of equation strings in Python. The main goal is to gain a insight in the backbone of simulation technology. Deepdived are methods of explicit and implicit solver, rootfinding and linear system. Simple demos are realizable with Python/Rust. Further research towards its application in established models, and PDE solver.
+*ODEqSolver* is a <u>personal project</u> due to personal interests. It solves system of ODEs described in a list of equation strings in Python. The main goal is to gain a insight in the backbone of simulation technology. Deepdived are explicit and implicit methods, rootfinding and linear system.  Crude demos are realized in Python and C++, doable in Rust.
+
+Further development: find general expression for ivp and bvp; application in established models, methods of determining stiffness (matrix rank or?) PDE solver, via compiler
 
 ### - *QU4LITY Project Airbus Pilot (2020-2022)*
 
