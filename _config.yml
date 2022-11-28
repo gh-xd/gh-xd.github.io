@@ -90,7 +90,7 @@ author:
   location         : "China"
   employer         :
   pubmed           :
-  orcid            : "orcid.org/0000-0002-1816-7293" 
+  orcid            : https://orcid.org/0000-0002-1816-7293 
   googlescholar    : 
   email            : "xiaodu.hu@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -108,7 +108,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/xiaodu-hu-096271193/" 
+  linkedin         : "://www.linkedin.com/in/xiaodu-hu-096271193/" 
   pinterest        :
   soundcloud       :
   stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
