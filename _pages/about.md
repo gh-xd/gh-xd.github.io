@@ -30,6 +30,8 @@ Further development: C++ or Python/C++ mixed; Investigate Modelica components; U
 
 *ODEqSolver* is a <u>personal project</u> due to personal interests. It solves system of ODEs described in a list of equation strings in Python. The main goal is to gain a insight in the backbone of simulation technology. Deepdived are explicit and implicit methods, rootfinding and linear system.  Crude demos are realized in Python and C++, doable in Rust.
 
+![solv](./pyODEsolver.png)
+
 Further development: find general expression for ivp and bvp; application in established models, methods of determining stiffness (matrix rank or?) PDE solver, via compiler
 
 ### - *QU4LITY Project Airbus Pilot (2020-2022)*
