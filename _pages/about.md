@@ -8,17 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I gained my bachelor degree in mechanical engineering in 2010 and my first M.Sc. degree in mechanical engineering with specialization of logistics, in Tongji-University in 2013. I worked as junior project manager in pilot hall at SAIC Volkswagen between 2013 and 2015.  Since 2015, I have been studying technology management in University of Stuttgart and gained my second M.Sc. degree in 2019. From 2019/11 to 2022/04, I worked as academic staff in the IAT of University of Stuttgart at Digital Engineering team of Fraunhofer IAO.
+I gained my bachelor degree in mechanical engineering in 2010 and my first M.Sc. degree in mechanical engineering with specialization in logistics, in Tongji-University in 2013. I worked as junior project manager in pilot hall at SAIC Volkswagen between 2013 and 2015.  Since 2015, I have been studying technology management in University of Stuttgart and gained my second M.Sc. degree in 2019. From 2019/11 to 2022/04, I worked as academic staff in the IAT of University of Stuttgart at Digital Engineering team of Fraunhofer IAO.
 
 ---
 
 # Research
 
-Research interests are Modeling and Simulation, Model-based Systems Engineering (MBSE), Digital Twin, CPS, Numerical Solvers, AI for Science, AI technologies, etc.
+Research interests are Modeling and Simulation, Hybrid Twin/Digital Twin, Numerical Solvers, Model-based Systems Engineering (MBSE), AI for Science, etc.
 
 ### - *ModelSolver (2022)*
 
-ModelSolver is a <u>personal project</u> due to personal interests. It can model multiphysics system from bond graph and solves system of ODEs derived from the graph. The main goal is to explore the meta-model approach for system-level simulation towards MBSE approach.
+ModelSolver is a <u>personal project</u> due to personal interests. It can model multi-domain system from bond graph and solves system of ODEs derived from the graph. The main goal is to explore the meta-model approach for system-level simulation towards MBSE approach.
 
 ![bgms](sysmodel.png)
 
@@ -28,7 +28,7 @@ Further development: C++ or Python/C++ mixed; Investigate Modelica components; U
 
 ### - *ODEqSolver (2022)*
 
-*ODEqSolver* is a <u>personal project</u> due to personal interests. It solves system of ODEs described in a list of equation strings in Python. The main goal is to gain a insight in the backbone of simulation technology. Deepdived are explicit and implicit methods, rootfinding and linear system.  Crude demos are realized in Python and C++, doable in Rust.
+*ODEqSolver* is a <u>personal project</u> due to personal interests. It solves system of ODEs described in a list of equation strings in Python. The main goal is to gain a insight in the backbone of simulation technology. Deepdived are explicit and implicit methods, rootfinding and linear system.  Crude demos are realized in Python and C++.
 
 ![solv](./pyODEsolver.png)
 
